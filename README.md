@@ -2,7 +2,7 @@
 
 * 👀 I’m interested in Technology & Computer Science
 * 💻 I'm proficient in Python, Java, Javascript, Typescript, C, and C++
-* 💡 I'm currently working on [Differentiation-inator 2.0](https://github.com/brandonbng23/Differentiation-inator-2/tree/main)
+* 💡 I'm currently working on [Gabbai](https://github.com/brandonbng23/gabbai)
 * 📧 I can be contacted at brangold@udel.edu
 
 
